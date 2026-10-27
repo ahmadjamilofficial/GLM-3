@@ -60,13 +60,15 @@ The full research paper describes the proposed architecture, mathematical formul
 
 **[Open the complete GLM-3 research paper (PDF)](https://github.com/Ahmadjamil888/GLM-3/blob/main/download.pdf)**
 
-#### Embedded PDF viewer
+<iframe
+  src="https://raw.githubusercontent.com/Ahmadjamil888/GLM-3/refs/heads/main/GLM-3_%20Geometry%20in%20Language.png"
+  width="100%"
+  height="720"
+  style="border: 1px solid #d1d5db; border-radius: 8px;"
+  title="GLM-3: Geometry in Language"
+  loading="lazy">
+</iframe>
 
-The following viewer uses Google's document viewer with the repository's raw PDF file as its source.
-
-<iframe src="https://raw.githubusercontent.com/Ahmadjamil888/GLM-3/refs/heads/main/GLM-3_%20Geometry%20in%20Language.png" width="100%" height="720" style="border: 1px solid #d1d5db;" title="GLM-3 Research Paper PDF Viewer"></iframe>
-
-If the embedded viewer is unavailable in your Markdown renderer, use one of these alternatives:
 
 - **GitHub PDF page:** [View download.pdf](https://github.com/Ahmadjamil888/GLM-3/blob/main/download.pdf)
 - **Direct PDF download:** [Download the research paper](https://github.com/Ahmadjamil888/GLM-3/raw/refs/heads/main/download.pdf)
