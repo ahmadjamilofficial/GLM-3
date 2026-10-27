@@ -64,7 +64,7 @@ The full research paper describes the proposed architecture, mathematical formul
 
 The following viewer uses Google's document viewer with the repository's raw PDF file as its source.
 
-<iframe src="https://docs.google.com/gview?embedded=1&url=https%3A%2F%2Fraw.githubusercontent.com%2FAhmadjamil888%2FGLM-3%2Fmain%2Fdownload.pdf" width="100%" height="720" style="border: 1px solid #d1d5db;" title="GLM-3 Research Paper PDF Viewer"></iframe>
+<iframe src="https://raw.githubusercontent.com/Ahmadjamil888/GLM-3/refs/heads/main/GLM-3_%20Geometry%20in%20Language.png" width="100%" height="720" style="border: 1px solid #d1d5db;" title="GLM-3 Research Paper PDF Viewer"></iframe>
 
 If the embedded viewer is unavailable in your Markdown renderer, use one of these alternatives:
 
