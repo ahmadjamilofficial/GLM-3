@@ -1204,7 +1204,7 @@ A provisional BibTeX entry is provided below. Replace the author, publication, a
   title        = {GLM-3: Geometric Language Model},
   author       = {Ahmad Jamil},
   year         = {2026},
-  howpublished = {\url{https://github.com/Ahmadjamil888/GLM-3}},
+  howpublished = {\url{https://github.com/Ahmadjamilofficial/GLM-3}},
   note         = {Research prototype and technical documentation}
 }
 ```
